@@ -32,4 +32,4 @@ Different Tree and Graphs implementation
 4.	DijkstrasAlgorithm.java - conains implementation for Dijkstra's Algorithm.
 5.	PrimsAlgorithm.java - contains implementation for Prim's Algorithm.
 6.	Vertex.java - used by prim's algorithm to maintaind the Priority Queue with vertex name and weight.
-7.	PriorityQueue - used by Prim's algorithm and contains implementation of different operations used to maintain Priority Queue.
+7.	PriorityQueue.java - used by Prim's algorithm and contains implementation of different operations used to maintain Priority Queue.
